@@ -24,7 +24,7 @@ function AllProducts() {
         </Row>
       </Container>
       <div className="mb-5"></div>
-          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8326352438365649"
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8326352438365649"
      crossorigin="anonymous"></script>
       <Footer />
     </Fragment>
